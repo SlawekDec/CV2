@@ -33,7 +33,7 @@ h3 {
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 19px;
 	text-align: left;
 	margin-top: 0px;
 	margin-bottom: 16px;
@@ -71,7 +71,7 @@ ul {
 .middle-row2 {
 	background: linear-gradient(-120deg, #777 0%, #eee 50%);
 	width: 837.5px;
-	height: 1720px;
+	height: 1700px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-top: 20px;
