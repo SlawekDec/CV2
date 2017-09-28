@@ -40,6 +40,10 @@ h4 {
 	padding-bottom: 0px;
 }
 
+h5 {
+	margin-bottom: 5px;
+}
+
 
 
 ul {
@@ -96,7 +100,7 @@ ul {
 .bottom-row {
 	width: 1150px;
 	background: #eee;
-	height: 50px;
+	height: 85px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-right: 10px;
@@ -150,7 +154,7 @@ ul {
 }
 
 .description{
-	margin-bottom: 20px;
+	margin-bottom: 18px;
 }
 
 .description2{
@@ -164,3 +168,4 @@ ul {
 .box1{
 	margin-left: 35px;
 }
+
