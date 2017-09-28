@@ -4,13 +4,14 @@
 
 .img {
 	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-bottom: 28px;
 }
 
 #image img {
     width: 60%;
     height: auto;
     clear: both;
+    margin-bottom: 30px;
 
 }
 
@@ -61,7 +62,7 @@ ul {
 
 .middle-row {
 	background: linear-gradient(110deg, #777 0%, #eee 50%);
-	height: 750px;
+	height: 740px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	margin-left: 10px;
@@ -75,7 +76,7 @@ ul {
 .middle-row2 {
 	background: linear-gradient(-120deg, #777 0%, #eee 50%);
 	width: 837.5px;
-	height: 1700px;
+	height: 1660px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-top: 20px;
@@ -169,3 +170,10 @@ ul {
 	margin-left: 35px;
 }
 
+.space1 {
+	margin-bottom: 30px;
+} 
+
+.space2 {
+	margin-bottom: 25px;
+}
