@@ -8,7 +8,7 @@
 }
 
 #image img {
-    width: 60%;
+    width: 87%;
     height: auto;
     clear: both;
 
@@ -44,7 +44,19 @@ h5 {
 	margin-bottom: 5px;
 }
 
+.pzlmielec {
+	font-size: 14px;
+	color: #228B22;
+}
 
+.pzlmielec2{
+	color: #228B22;
+}
+
+.pzlmielec3 {
+	font-size: 14px;
+	color: #228B22;
+}
 
 ul {
 	list-style-type: none;
@@ -61,7 +73,7 @@ ul {
 
 .middle-row {
 	background: linear-gradient(110deg, #777 0%, #eee 50%);
-	height: 840px;
+	height: 935px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	margin-left: 10px;
@@ -75,7 +87,7 @@ ul {
 .middle-row2 {
 	background: linear-gradient(-120deg, #777 0%, #eee 50%);
 	width: 837.5px;
-	height: 1700px;
+	height: 1815px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-top: 20px;
@@ -100,7 +112,7 @@ ul {
 .bottom-row {
 	width: 1150px;
 	background: #eee;
-	height: 67px;
+	height: 52px;
 	border-radius: 15px;
 	box-shadow: 1px 1px 10px #000;
 	margin-right: 10px;
